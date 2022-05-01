@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SamirSir/Express-Basics#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "joi": "^13.7.0"
   }
 }
